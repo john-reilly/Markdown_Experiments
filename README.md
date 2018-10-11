@@ -21,7 +21,7 @@ This is just for me to experiment with some mark down ideas to develop a nice re
 
 # Please watch this video, I walk you through the whole project in less than 10 minutes
 My video
-[My Video](hhttps://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+[My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
 # This is my report in as submitted for review.
 My report
